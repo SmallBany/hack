@@ -1,9 +1,7 @@
-{
   "data": [
     {
-      "coins":"10000",
-      "coins2":"10000",
-	  "username":"MrHacker16"
+     	 "coins":"10000",
+      	"coins2":"10000",
+    	"username":"MrHacker16"
     }
   ]
-}
